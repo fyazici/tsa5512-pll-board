@@ -11,3 +11,5 @@ For higher frequency requirements (UHF band, ~300MHz) original tuner designs can
 
 3D board view of the top-side:
 ![3D board view](board-view-3d.png)
+
+Note that the gerber outputs are not up-to-date (belongs to an erroneus version). I've laser-printed the board so I did not care about special requirements of any PCB manufacturer. A revisit of layout is required to meet manufacturer demands (some I know of are: OSH Park, Seeedstudio)
